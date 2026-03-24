@@ -2,31 +2,41 @@
 
 
 
-\## Sobre o Projeto
+\# 📘 Cartilha de Segurança Digital para Pequenas Empresas (LGPD)
+
+
+
+\## 📌 Sobre o Projeto
 
 Este projeto tem como objetivo desenvolver uma cartilha educativa com orientações básicas sobre segurança digital e a Lei Geral de Proteção de Dados (LGPD), voltada para pequenas empresas.
 
 
 
-\## Objetivo
+\## 🎯 Objetivo
 
 Ajudar pequenas empresas a entenderem a importância da proteção de dados e aplicar práticas simples de segurança digital.
 
 
 
-\## Integrantes
+\## 👥 Integrantes
 
 \- Pedro Camargo
 
-\- Nome do integrante
-
-\- Nome do integrante
+\- Bruno Ferreira Bregge
 
 
 
-\## Estrutura do Projeto
+\## 🧠 Distribuição de Papéis
 
-\- docs/ → Documentos e cartilha
+\- Pedro Camargo: organização do repositório, versionamento (Git) e apoio técnico
+
+\- Bruno Ferreira Bregge: pesquisa, desenvolvimento do conteúdo e design da cartilha
+
+
+
+\## 🧩 Estrutura do Projeto
+
+\- docs/ → Documentos e planejamento
 
 \- slides/ → Apresentação
 
@@ -34,17 +44,37 @@ Ajudar pequenas empresas a entenderem a importância da proteção de dados e ap
 
 
 
-\## Tecnologias
+\## 📊 Planejamento Inicial
 
-\- Git e GitHub
-
-\- PowerPoint / Canva
-
-\- Markdown
+O projeto será desenvolvido nas seguintes etapas:
 
 
 
-\## Status
+1\. Definição do tema  
 
-Projeto em fase inicial (planejamento)
+2\. Criação do repositório  
+
+3\. Organização do projeto  
+
+4\. Pesquisa do conteúdo  
+
+5\. Desenvolvimento da cartilha  
+
+6\. Criação da apresentação  
+
+
+
+\## 🚀 Tecnologias Utilizadas
+
+\- Git e GitHub  
+
+\- Markdown  
+
+\- PowerPoint / Canva  
+
+
+
+\## 📅 Status do Projeto
+
+🚧 Em desenvolvimento (Entrega 0)
 
