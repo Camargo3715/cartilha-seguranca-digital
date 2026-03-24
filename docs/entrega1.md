@@ -1,0 +1,118 @@
+\# 📘 Entrega 1 — Problema, Objetivos e Escopo
+
+
+
+\## 1. Introdução
+
+
+
+Com o avanço da tecnologia e o aumento do uso de sistemas digitais, as pequenas empresas passaram a lidar cada vez mais com dados pessoais de clientes, como nome, telefone, CPF e endereço. No entanto, muitas dessas empresas não possuem conhecimento adequado sobre segurança digital nem sobre a Lei Geral de Proteção de Dados (LGPD).
+
+
+
+Esse cenário gera riscos significativos, como vazamento de informações, uso indevido de dados e ataques virtuais, podendo causar prejuízos financeiros e danos à imagem da empresa.
+
+
+
+Diante disso, identifica-se como problema a falta de conhecimento e aplicação de práticas básicas de segurança digital em pequenas empresas, bem como a ausência de compreensão sobre as exigências da LGPD.
+
+
+
+\---
+
+
+
+\## 2. Objetivo Geral
+
+
+
+Desenvolver uma cartilha educativa sobre segurança digital e LGPD, voltada para pequenas empresas, com o intuito de orientar sobre a proteção de dados e boas práticas digitais.
+
+
+
+\---
+
+
+
+\## 3. Objetivos Específicos
+
+
+
+\- Explicar conceitos básicos de segurança digital de forma simples e acessível  
+
+\- Apresentar os principais riscos digitais enfrentados por pequenas empresas  
+
+\- Demonstrar boas práticas para proteção de dados e adequação à LGPD  
+
+
+
+\---
+
+
+
+\## 4. Escopo do Projeto
+
+
+
+\### 4.1 O que o projeto inclui
+
+
+
+\- Desenvolvimento de uma cartilha digital explicativa  
+
+\- Conteúdo sobre segurança digital básica  
+
+\- Explicação simplificada da LGPD  
+
+\- Exemplos de boas práticas para proteção de dados  
+
+\- Produção de material didático acessível  
+
+
+
+\---
+
+
+
+\### 4.2 O que o projeto NÃO inclui
+
+
+
+\- Implementação de sistemas de segurança reais  
+
+\- Desenvolvimento de software ou aplicação  
+
+\- Consultoria jurídica especializada em LGPD  
+
+\- Análise técnica avançada de segurança da informação  
+
+
+
+\---
+
+
+
+\## 5. Riscos Iniciais do Projeto
+
+
+
+\- Falta de conhecimento aprofundado sobre LGPD por parte dos integrantes  
+
+\- Dificuldade em adaptar linguagem técnica para um público leigo  
+
+\- Problemas na divisão de tarefas entre os integrantes  
+
+\- Atrasos no desenvolvimento do conteúdo  
+
+
+
+\---
+
+
+
+\## 🏁 Conclusão
+
+
+
+O projeto busca contribuir com a conscientização de pequenas empresas sobre a importância da segurança digital e da proteção de dados, apresentando informações claras, objetivas e de fácil compreensão.
+
